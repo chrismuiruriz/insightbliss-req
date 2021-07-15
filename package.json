@@ -1,4 +1,14 @@
 {
-	"name":"@chrismuiruri/insightbliss-req",
-	"version": "1.0.0"
+  "name": "@chrismuiruri/insightbliss-req",
+  "version": "1.0.0",
+  "description": "Makes it super easy to submit leads to InsightBliss",
+  "license": "MIT",
+  "repository": "chrismuiruriz/insightbliss-req",
+  "main": "index.js",
+  "keywords": [
+    "insightbliss-req",
+    "npm",
+    "package",
+    "insightbliss"
+  ]
 }
